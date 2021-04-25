@@ -1,0 +1,48 @@
+Smena:A
+Ponedeljak|1|Baze podataka
+Ponedeljak|2|Baze podataka
+Ponedeljak|3|Fizicko vaspitanje
+Ponedeljak|4|Preduzetnistvo
+Ponedeljak|5|Preduzetnistvo
+Ponedeljak|6|Srpski
+Ponedeljak|7|Elektronsko poslovanje
+Ponedeljak|8|Elektronsko poslovanje
+Utorak|1|
+Utorak|2|Fizicko vaspitanje
+Utorak|3|Verska nastava/Gradjansko vaspitanje
+Utorak|4|Engleski
+Utorak|5|Engleski
+Utorak|6|Matematika
+Utorak|7|Matematika
+Sreda|1|
+Sreda|2|Tehnicka dokumentacija
+Sreda|3|Tehnicka dokumentacija
+Sreda|4|Elektronsko poslovanje
+Sreda|5|Elektronsko poslovanje
+Sreda|6|Zastita informacionih sistema
+Sreda|7|Srpski jezik
+Sreda|8|Srpski jezik
+Smena:B
+Ponedeljak|1|Elektronsko poslovanje
+Ponedeljak|2|Elektronsko poslovanje
+Ponedeljak|3|Srpski
+Ponedeljak|4|Preduzetnistvo
+Ponedeljak|5|Preduzetnistvo
+Ponedeljak|6|Fizicko vaspitanje
+Ponedeljak|7|Baze podataka
+Ponedeljak|8|Baze podataka
+Utorak|1|Matematika
+Utorak|2|Matematika
+Utorak|3|Engleski
+Utorak|4|Engleski
+Utorak|5|Verska nastava/Gradjansko vaspitanje
+Utorak|6|Fizicko vaspitanje
+Utorak|7|
+Sreda|1|Srpski jezik
+Sreda|2|Srpski jezik
+Sreda|3|Zastita informacionih sistema
+Sreda|4|Elektronsko poslovanje
+Sreda|5|Elektronsko poslovanje
+Sreda|6|Tehnicka dokumentacija
+Sreda|7|Tehnicka dokumentacija
+Sreda|8|
